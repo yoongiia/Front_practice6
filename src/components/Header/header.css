@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    color: black;
+}
+.header{
+    background-color: lightgoldenrodyellow;
+    border: 10px solid rgb(160, 160, 134);
+    height: 70px;
+    color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.header p{
+    text-align: center;
+    padding-top: 10px;
+    font-size: 20px;
+    font-weight: 900;
+    
+}

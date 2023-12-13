@@ -1,0 +1,14 @@
+.sidebar{
+    background-color: lightblue;
+    border: 10px solid rgb(135, 169, 180);
+    width: 20%;
+    height: 400px;
+    float: left;
+    display: block;
+    color: black;
+}
+.title{
+    text-align: center;
+    padding-top: 40px;
+    font-size: 20px;
+}
